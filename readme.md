@@ -5,3 +5,4 @@ add children dir
 rebase/
 rebase -i
 rebase -i master v0.0.1
+git rebase --onto v0.0.1 master
