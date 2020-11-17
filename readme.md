@@ -6,3 +6,6 @@ rebase/
 rebase -i
 rebase -i master v0.0.1
 git rebase --onto v0.0.1 master
+git status for tacked file
+git status -s
+git diff
