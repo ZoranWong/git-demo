@@ -1,4 +1,1 @@
-merge
-cccccccc
-cccc
-ccc
+git reset/git restore
